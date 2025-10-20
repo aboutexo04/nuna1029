@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+shopping-mall/node_modules/
+
+# Builds
+dist/
+shopping-mall/dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.*
